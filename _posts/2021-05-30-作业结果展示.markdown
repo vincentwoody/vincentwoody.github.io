@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "作业结果展示"
+date:   2021-05-30 14:12:39 +0800
+categories: jekyll update
+---
+# WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站
+公网网址：https://jack2351.github.io/  
+GitHub仓库网址：https://github.com/Jack2351/Jack2351.github.io/tree/master
+## 一、网站目录结构
+![目录1]({{ site.url }}/downloads/目录1.png)
+
+![目录2]({{ site.url }}/downloads/目录2.png)
+## 二、网站截图
+首页  
+![首页]({{ site.url }}/downloads/首页.png)  
+blog列表  
+![blog列表]({{ site.url }}/downloads/blog列表页.png)  
+post1  
+![post1]({{ site.url }}/downloads/post1.png)  
+post2  
+![post2]({{ site.url }}/downloads/post2.png)  
+staff列表  
+![staff列表]({{ site.url }}/downloads/staff列表.png)  
+作者简介  
+![作者简介]({{ site.url }}/downloads/作者简介.png)  
+about页面  
+![about页面]({{ site.url }}/downloads/about.png)
+## 三、实验过程
+首先我先结合课堂上学到知识复习了提纲，之后借助Jekyll按步骤做出了默认的博客界面。然后一步步修改成具有个人特色和符合实验要求的网站。
+## 四、总结
+1、不知道如何在添加博文中添加图片，之后通过网上查询和复习提纲解决；  
+2、不懂如何把本地代码git到自己的GitHub仓库里，通过同学互助解决。  
+体会：  
+这次实验最重要的不是学到的多少web的知识，而是我通过自己的努力做出了些东西，哪怕只是一个粗糙的网站，这份成就感让我对计算机这门学科产生了更大的兴趣。
