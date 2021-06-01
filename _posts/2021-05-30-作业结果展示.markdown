@@ -5,8 +5,8 @@ date:   2021-05-30 14:12:39 +0800
 categories: jekyll update
 ---
 # WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站
-公网网址：https://jack2351.github.io/  
-GitHub仓库网址：https://github.com/Jack2351/Jack2351.github.io/tree/master
+公网网址：https://vincentwoody.github.io/ 
+GitHub仓库网址：https://github.com/vincentwoody/vincentwoody.github.io/tree/master
 ## 一、网站目录结构
 ![目录1]({{ site.url }}/downloads/目录1.png)
 
@@ -27,4 +27,4 @@ about页面
 ## 三、实验过程
 首先我利用我复习了在课堂上老师教授的知识以及自己记的笔记，然后通过老师发的讲义完成此作业。
 ## 四、总结
-通过这次实验，我学会了如何去创建一个个人的博客。不过此次的博客还是十分简陋，我希望通过更加深入地学习制作一个更精致完整的博客。
+起初通过这次实验，我学会了如何去创建一个个人的博客。不过此次的博客还是十分简陋，我希望通过更加深入地学习制作一个更精致完整的博客。
