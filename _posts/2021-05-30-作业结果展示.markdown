@@ -17,9 +17,7 @@ GitHub仓库网址：https://github.com/Jack2351/Jack2351.github.io/tree/master
 blog列表  
 ![blog列表]({{ site.url }}/downloads/blog列表页.png)  
 post1  
-![post1]({{ site.url }}/downloads/post1.png)  
-post2  
-![post2]({{ site.url }}/downloads/post2.png)  
+![post1]({{ site.url }}/downloads/post1.png)   
 staff列表  
 ![staff列表]({{ site.url }}/downloads/staff列表.png)  
 作者简介  
@@ -27,9 +25,6 @@ staff列表
 about页面  
 ![about页面]({{ site.url }}/downloads/about.png)
 ## 三、实验过程
-首先我先结合课堂上学到知识复习了提纲，之后借助Jekyll按步骤做出了默认的博客界面。然后一步步修改成具有个人特色和符合实验要求的网站。
+首先我利用我复习了在课堂上老师教授的知识以及自己记的笔记，然后通过老师发的讲义完成此作业。
 ## 四、总结
-1、不知道如何在添加博文中添加图片，之后通过网上查询和复习提纲解决；  
-2、不懂如何把本地代码git到自己的GitHub仓库里，通过同学互助解决。  
-体会：  
-这次实验最重要的不是学到的多少web的知识，而是我通过自己的努力做出了些东西，哪怕只是一个粗糙的网站，这份成就感让我对计算机这门学科产生了更大的兴趣。
+通过这次实验，我学会了如何去创建一个个人的博客。不过此次的博客还是十分简陋，我希望通过更加深入地学习制作一个更精致完整的博客。
