@@ -1,3 +1,8 @@
+layout: post
+title:  "WEB第三次作业"
+date:   2021-06-6:08:39 +0800
+categories: jekyll update
+
 # WEB应用软件开发实训 - 第3次作业 -Git使用
 > learngit 项目网址为：https://github.com/vincentwoody/learngit
 ## 一、必做部分
